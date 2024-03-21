@@ -1,3 +1,6 @@
+#Output GIF
+![](https://github.com/shubhangi-2003/meme-generator/blob/main/meme-challenge.gif)
+
 A meme generator code utilizing HTML, CSS, and JavaScript (DOM) enables users to dynamically create custom memes directly within a web browser. Here's a description of how such a code might work:
 
 HTML Structure: The HTML file provides the structure for the meme generator interface. It includes input fields for the top and bottom text of the meme, a button to generate the meme, and a container to display the generated meme.
